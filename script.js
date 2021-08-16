@@ -36,7 +36,7 @@ const songs = [
         artist: 'Metric/Jacinto Design',
       },
     {
-        name: 'Ksy',
+        name: 'ksy',
         displayName: 'Ksy caver',
         artist: 'Ksy',
       },
