@@ -35,6 +35,11 @@ const songs = [
         displayName: 'Front Row (Remix)',
         artist: 'Metric/Jacinto Design',
       },
+    {
+        name: 'Ksy',
+        displayName: 'Ksy caver',
+        artist: 'Ksy',
+      },
 ];
 
 //проверка play
