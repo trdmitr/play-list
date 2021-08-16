@@ -16,29 +16,24 @@ const durationEl = document.getElementById('duration');
 //Музыка 
 const songs = [
     {
-        name: 'jacinto-1',
-        displayName: 'Super mashin',
-        artist: 'Jacinto'
+        name: 'толян',
+        displayName: 'Igra',
+        artist: 'Толян'
     },
     {
-        name: 'jacinto-2',
-        displayName: 'Super mashin2',
-        artist: 'Jacinto'
+        name: 'колян',
+        displayName: 'Атаман',
+        artist: 'Колян'
     },
     {
-        name: 'jacinto-3',
-        displayName: 'Super mashin3',
-        artist: 'Jacinto',
+        name: 'медведь',
+        displayName: 'Нам с тобой',
+        artist: 'Медведь',
     },
     {
-        name: 'metric-1',
-        displayName: 'Front Row (Remix)',
-        artist: 'Metric/Jacinto Design',
-      },
-    {
-        name: 'ksy',
-        displayName: 'Дождь',
-        artist: 'Ksy',
+        name: 'костик',
+        displayName: 'Около семи утра',
+        artist: 'Костик',
       },
 ];
 
